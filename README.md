@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project analyzes payment transaction behavior and fraud risk using the **BankSim synthetic banking payment dataset**.
+This project analyzes payment transaction behavior and fraud risk using the **BankSim synthetic banking payment dataset**. 
+Link: https://www.kaggle.com/datasets/ealaxi/banksim1/data
 
 The objective is to approach payment fraud from the perspective of a financial institution: not simply identifying fraudulent transactions, but understanding **where financial exposure is concentrated, which merchants and customers exhibit elevated risk, and how fraudulent activity differs from normal payment behavior**.
 
